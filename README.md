@@ -1,13 +1,11 @@
 ## HELLO_FROM_DJIBRILE
 
 ### App Description
-`TODO://` This app is design to say Hello From Djibrile in a custom colored background and has a button which changes the color of the text
+This app is design to say Hello From Djibrile in a custom colored background and has a button which changes the color of the text
 
 ### App Walk-though
 
 <img src=http://g.recordit.co/SvwSAEJVEd.gif width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Djibrile!
