@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello From Djibrile</string>
+    <string name="hello_from_djibrile">Hello From Djibrile!</string>
+    <string name="change_text_color">Change Text Color</string>
+    <string name="change_background_color">Change Background Color</string>
+    <string name="hello_from_djibrile_">Hello From Djibrile</string>
+</resources>
